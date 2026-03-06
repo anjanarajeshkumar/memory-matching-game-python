@@ -1,2 +1,2 @@
-# memory-matching-game-python
-A GUI-based Memory Matching Game built using Python (Tkinter/Pygame) to improve concentration and logical thinking.
+# paw-pair-quest-python
+An interactive Python GUI memory matching game built with Tkinter featuring animal-themed cards, a countdown timer, score tracking, and colorful visual feedback.
